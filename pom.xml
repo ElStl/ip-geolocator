@@ -14,6 +14,13 @@
             <organization>Faculty of Informatics, University of Debrecen</organization>
             <organizationUrl>http://www.inf.unideb.hu/</organizationUrl>
         </developer>
+        <developer>
+            <id>batizimate</id>
+            <name>Máté Batizi</name>
+            <email>mate.batizi.012@gmail.com</email>
+            <organization>Faculty of Informatics, University of Debrecen</organization>
+            <organizationUrl>http://www.inf.unideb.hu/</organizationUrl>
+        </developer>
     </developers>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
