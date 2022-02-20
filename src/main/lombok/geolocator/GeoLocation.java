@@ -1,6 +1,3 @@
-import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
-import org.apache.commons.lang3.builder.ToStringStyle;
-
 package geolocator;
 
 @lombok.Data
@@ -20,8 +17,4 @@ public class GeoLocation {
     private String timezone;
     private String zip;
 
-}
-
-public String toString() {
-    return ReflectionToStringBuilder.toString(this, ToStringStyle.MULTI_LINE_STYLE);
 }
